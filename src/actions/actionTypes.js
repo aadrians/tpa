@@ -1,0 +1,1 @@
+export const CREATE_PENGAJAR = 'CREATE_PENGAJAR';
